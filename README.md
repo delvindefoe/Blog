@@ -8,4 +8,4 @@ I enjoy learning new things and will use this medium to share some of my new fou
 
 [My blogs](https://github.com/delvindefoe/Blog/wiki) will be posted on my wiki pages.  
 
-Currently, not much has been added; but, that will change with time.
+Currently, not much has been added, but that will change with time.
